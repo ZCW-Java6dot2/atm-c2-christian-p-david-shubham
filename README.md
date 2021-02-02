@@ -28,7 +28,7 @@ Tests should demonstrate proper behavior, and proper handling of misuse (eg. att
   - Can create new user
   - Users are authenticated with a password (generated or provided on user creation)
   - Can exit a user and enter another user
-- **BONUS** Persistence
+- **BONUS** Persistence:
   - Users and accounts remain persistent
   - Opportunity for research
 
